@@ -10,3 +10,6 @@
 2) **WAJP to print and count all the Armstrong numbers up to 1000.**
 3) **WAJP to take user input and print whether the number is Prime number or not.**
 4) **WAJP to print and count all the  Prime numbers up to a given range.**
+5) **WAJP to print alternate Prime numbers and count all the Prime numbers up to a given range.**  
+   a) *Alternate Prime Numbers at Odd Positions. Ex: 2 5 11 17...*  
+   b) *Alternate Prime Numbers at Even Positions. Ex: 3 7 13 19...*  
