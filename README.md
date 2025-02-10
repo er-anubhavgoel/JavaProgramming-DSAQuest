@@ -14,3 +14,5 @@
    a) *Alternate Prime Numbers at Odd Positions. Ex: 2 5 11 17...*  
    b) *Alternate Prime Numbers at Even Positions. Ex: 3 7 13 19...*  
 6) **WAJP to print and count all prime numbers in a range where sum of digits is also prime number.**
+7) **WAJP to take user input and check the number is palindrome or not.**
+8) **WAJP to print and count all the palindrome numbers in a given range.**
