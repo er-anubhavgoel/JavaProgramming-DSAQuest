@@ -16,3 +16,4 @@
 6) **WAJP to print and count all prime numbers in a range where sum of digits is also prime number.**
 7) **WAJP to take user input and check the number is palindrome or not.**
 8) **WAJP to print and count all the palindrome numbers in a given range.**
+9) **WAJP to print all the palindrome numbers in a range which are also prime numbers.**
