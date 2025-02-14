@@ -20,4 +20,5 @@
 10) **WAJP to take user input and print whether the number is Perfect Number or not.**
 11) **WAJP to print and count all the Perfect Numbers in a given Range.**
 12) **WAJP to take user input and print whether the number is Dissarium Number or not.**
-13) **WAJP to print and count all the Dissarium Numbers up to 1000.**
+13) **WAJP to print and count all the Dissarium Numbers in a given Range.**
+14) **WAJP to take user input and print whether the number is Happy Number or not.**
