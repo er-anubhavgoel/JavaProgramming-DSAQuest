@@ -22,3 +22,5 @@
 12) **WAJP to take user input and print whether the number is Dissarium Number or not.**
 13) **WAJP to print and count all the Dissarium Numbers in a given Range.**
 14) **WAJP to take user input and print whether the number is Happy Number or not.**
+15) **WAJP to take user input and print whether the number is Automorphic Number or not.**
+16) **WAJP to print and count all the Automorphic Numbers in a given Range.**
