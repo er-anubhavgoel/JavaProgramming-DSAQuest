@@ -28,3 +28,5 @@
    a) *Using Brute-Force Approach*  
    b) *Using Optimal Approach with Frequency Array*  
 18) **WAJP to print and count all the Fascinating Numbers in a given Range.**
+19) **WAJP to take user input and print whether the number is Strong Number or not.**
+20) **WAJP to print and count all the Strong Numbers in a given Range.**
