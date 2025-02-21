@@ -32,3 +32,5 @@
 20) **WAJP to print and count all the Strong Numbers in a given Range.**
 21) **WAJP to swap two numbers a and b by using third variable.**
 22) **WAJP to swap two numbers a and b without using third variable.**
+23) **WAJP to convert Decimal Number into Binary Number.**
+24) **WAJP to convert Binary Number into Decimal Number.**
