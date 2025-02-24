@@ -34,3 +34,5 @@
 22) **WAJP to swap two numbers a and b without using third variable.**
 23) **WAJP to convert Decimal Number into Binary Number.**
 24) **WAJP to convert Binary Number into Decimal Number.**
+25) **WAJP to convert Decimal Number into Octal Number.**
+26) **WAJP to convert Octal Number into Decimal Number.**
