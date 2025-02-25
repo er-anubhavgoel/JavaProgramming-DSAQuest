@@ -36,3 +36,5 @@
 24) **WAJP to convert Binary Number into Decimal Number.**
 25) **WAJP to convert Decimal Number into Octal Number.**
 26) **WAJP to convert Octal Number into Decimal Number.**
+27) **WAJP to convert Decimal Number into Hexadecimal Number.**
+28) **WAJP to convert Hexadecimal Number into Decimal Number.**
