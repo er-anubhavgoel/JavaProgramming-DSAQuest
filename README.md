@@ -44,3 +44,4 @@
 ## Recursion
 
 1. **WAJP to generate numbers from 1 to n using recursion.**
+2. **WAJP to generate Table of any number using recursion.**
