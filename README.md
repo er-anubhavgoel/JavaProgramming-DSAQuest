@@ -46,3 +46,4 @@
 1. **WAJP to generate numbers from 1 to n using recursion.**
 2. **WAJP to generate Table of any number using recursion.**
 3. **WAJP to print sum of numbers from 1 to n using recursion.**
+4. **WAJP to print sum of squares of numbers from 1 to n using recursion.**
