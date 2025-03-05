@@ -48,3 +48,4 @@
 3. **WAJP to print sum of numbers from 1 to n using recursion.**
 4. **WAJP to print sum of squares of numbers from 1 to n using recursion.**
 5. **WAJP to print factorial of a number using recursion.**
+6. **WAJP to print power of a number using recursion.**
