@@ -50,3 +50,4 @@
 5. **WAJP to print factorial of a number using recursion.**
 6. **WAJP to print power of a number using recursion.**
 7. **WAJP to get count of digits of a number using recursion.**
+8. **WAJP to calculate sum of digits of a number using recursion.**
