@@ -53,3 +53,4 @@
 8. **WAJP to calculate sum of digits of a number using recursion.**
 9. **WAJP to find reverse of a number using recursion.**
 10. **WAJP to check whether a number is palindrome or not using recursion.**
+11. **WAJP to take four user inputs and print biggest of those using recursion.**
