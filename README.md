@@ -54,3 +54,4 @@
 9. **WAJP to find reverse of a number using recursion.**
 10. **WAJP to check whether a number is palindrome or not using recursion.**
 11. **WAJP to take four user inputs and print biggest of those using recursion.**
+12. **WAJP to calculate nth term of Fibonacci series using recursion.**
