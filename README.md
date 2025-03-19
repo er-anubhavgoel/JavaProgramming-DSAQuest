@@ -58,3 +58,9 @@
 13. **WAJP to print n terms of Fibonacci series using recursion.**
 14. **WAJP to take three user inputs and print HCF of the three numbers using recursion.**
 15. **WAJP to take three user inputs and print LCM of the three numbers using recursion.**
+
+---
+
+## Sorting
+
+1. **WAJP to implement *Bubble Sort* for sorting Array in Non-Decreasing Order.**
