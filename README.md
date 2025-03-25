@@ -67,3 +67,4 @@
 2. **WAJP to implement *Bubble Sort* for sorting Array in Decreasing Order.**
 3. **WAJP to implement *Selection Sort* for sorting Array in Non-Decreasing Order.**
 4. **WAJP to implement *Selection Sort* for sorting Array in Decreasing Order.**
+5. **WAJP to implement *Insertion Sort* for sorting Array in Non-Decreasing Order.**
