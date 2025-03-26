@@ -7,12 +7,12 @@ public class InsertionSort {
 	public static void main(String[] args) {
 		int[] arr = { 23, 12, 45, 23, 35, 46, 45, 6, 7, 65 };
 		System.out.println("Original Array is: " + Arrays.toString(arr));
-		selectionSort(arr);
+		insertionSort(arr);
 		System.out.println("\n<===After Sorting in Non-Decreasing Order===>\n");
 		System.out.println("Sorted Array is: " + Arrays.toString(arr));
 	}
 
-	public static void selectionSort(int[] a) {
+	public static void insertionSort(int[] a) {
 		int n = a.length;
 
 		for (int i = 1; i < n; i++) {
