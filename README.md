@@ -61,6 +61,12 @@
 
 ---
 
+## Array Programs
+
+1. **WAJP to print the even index elements of the array.**
+
+---
+
 ## Sorting
 
 1. **WAJP to implement *Bubble Sort* for sorting Array in Non-Decreasing Order.**
