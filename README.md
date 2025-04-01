@@ -64,6 +64,7 @@
 ## Array Programs
 
 1. **WAJP to print the even index elements of the array.**
+1. **WAJP to print the even elements of the array.**
 
 ---
 
