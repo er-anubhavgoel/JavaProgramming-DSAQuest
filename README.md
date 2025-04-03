@@ -66,6 +66,7 @@
 1. **WAJP to print the even index elements of the array.**
 2. **WAJP to print the even elements of the array.**
 3. **WAJP to print and count all the even numbers of the array.**
+4. **WAJP to print and count all the three digit numbers of the array.**
 
 ---
 
