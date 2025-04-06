@@ -69,6 +69,7 @@
 4. **WAJP to print and count all the three digit numbers of the array.**
 5. **WAJP to print sum and average of all the elements of array.**
 6. **WAJP to print the Biggest element, Smallest element and their difference in the array.**
+7. **WAJP to print and count all the Strings which has even number of characters.**
 
 ---
 
