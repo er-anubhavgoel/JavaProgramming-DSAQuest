@@ -73,6 +73,7 @@
 8. **WAJP to print the largest string and smallest string.**
 9. **WAJP to print each element of the array in reverse order.**
 10. **WAJP to print alternate element of the array from end.**
+11. **WAJP to swap two index values of the array.**
 
 ---
 
