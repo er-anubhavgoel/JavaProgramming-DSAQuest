@@ -87,3 +87,9 @@
 6. **WAJP to implement *Insertion Sort* for sorting Array in Decreasing Order.**
 7. **WAJP to implement *Merge Sort* for sorting Array in Non-Decreasing Order.**
 8. **WAJP to implement *Merge Sort* for sorting Array in Decreasing Order.**
+
+---
+
+## Collection Framework
+
+1. **WAJP to create a collection and iterate over the collection.**
