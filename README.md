@@ -93,3 +93,4 @@
 ## Collection Framework
 
 1. **WAJP to create a collection and iterate over the collection.**
+1. **WAJP to create a collection and iterate over the collection using Iterator Cursor.**
