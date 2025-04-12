@@ -4,6 +4,8 @@ import java.util.*;
 
 public class Program01 {
 	// TODO: To create a collection and iterate over the collection
+	
+	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public static void main(String[] args) {
 		Collection c1 = new ArrayList();
 		c1.add(22);
