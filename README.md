@@ -94,3 +94,4 @@
 
 1. **WAJP to create a collection and iterate over the collection.**  
     a) _Using Iterator Cursor_  
+2. **WAJP to create a collection and print all the Integer elements of the collection.**  
