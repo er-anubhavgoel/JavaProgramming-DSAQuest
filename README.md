@@ -95,3 +95,4 @@
 1. **WAJP to create a collection and iterate over the collection.**  
     a) _Using Iterator Cursor_  
 2. **WAJP to create a collection and print all the Integer elements of the collection.**  
+3. **WAJP to create a collection and calculate sum of all the integer elements of collection.**  
