@@ -98,3 +98,4 @@
 3. **WAJP to create a collection and calculate sum of all the integer elements of collection.**  
 4. **WAJP to create a collection and print the largest integer and smallest integer available in collection.**  
     a) _Using Iterator Cursor_    
+    a) _Using In-built methods_    
