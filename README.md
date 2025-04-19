@@ -100,3 +100,4 @@
     a) _Using Iterator Cursor_    
     b) _Using In-built methods_    
 5. **WAJP to create a collection and print the length of all String available in collection.**  
+6. **WAJP to create a collection and print the largest String and smallest String available in collection.**  
