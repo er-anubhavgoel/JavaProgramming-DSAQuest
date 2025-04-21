@@ -102,3 +102,4 @@
 5. **WAJP to create a collection and print the length of all String available in collection.**  
 6. **WAJP to create a collection and print the largest String and smallest String available in collection.**  
 7. **WAJP to create a collection and remove all the elements other than Integer from the collection.**  
+8. **WAJP to create a collection and print and count all the three digit integers available in collection.**  
