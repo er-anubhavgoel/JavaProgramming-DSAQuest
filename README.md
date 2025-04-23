@@ -104,3 +104,4 @@
 7. **WAJP to create a collection and remove all the elements other than Integer from the collection.**  
 8. **WAJP to create a collection and print and count all the three digit integers available in collection.**  
 9. **WAJP to create a collection and count the number of even integer numbers available in collection.**  
+10. **WAJP to create a collection of integers and count and print all the prime numbers available in collection.**  
