@@ -106,3 +106,4 @@
 9. **WAJP to create a collection and count the number of even integer numbers available in collection.**  
 10. **WAJP to create a collection of integers and print all the prime numbers available in collection.**  
 11. **WAJP to create a collection of integers and print all the palindrome numbers available in collection.**  
+12. **WAJP to identify and print all Unique elements in a List/Array.**  
