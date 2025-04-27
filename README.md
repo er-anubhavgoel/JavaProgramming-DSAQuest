@@ -108,3 +108,4 @@
 11. **WAJP to create a collection of integers and print all the palindrome numbers available in collection.**  
 12. **WAJP to identify and print all Unique elements in a List/Array.**  
 13. **WAJP to identify and print all duplicate elements in a List/Array.**  
+14. **WAJP to remove all the duplicates from a List/Array.**  
