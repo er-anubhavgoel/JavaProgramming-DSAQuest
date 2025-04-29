@@ -110,3 +110,4 @@
 13. **WAJP to identify and print all duplicate elements in a List/Array.**  
 14. **WAJP to remove all the duplicates from a List/Array.**  
 15. **WAJP to print all the unique characters from a String.**  
+16. **WAJP to print all the characters from String which has appeared more than once in the String/ print all duplicate characters.**  
