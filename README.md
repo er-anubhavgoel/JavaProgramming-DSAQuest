@@ -112,3 +112,4 @@
 15. **WAJP to print all the unique characters from a String.**  
 16. **WAJP to print all the characters from String which has appeared more than once in the String/ print all duplicate characters.**  
 17. **WAJP to remove all duplicate characters from String.**  
+18. **WAJP to merge two List objects into a single list without duplicates. Maintain the insertion order for unique elements.**  
