@@ -115,3 +115,4 @@
 18. **WAJP to merge two List objects into a single list without duplicates. Maintain the insertion order for unique elements.**  
 19. **WAJP to compare two List objects and return:**  
     a) _The common elements between them._  
+    b) _The elements present only in the first list but not in the second._  
