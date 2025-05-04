@@ -116,3 +116,4 @@
 19. **WAJP to compare two List objects and return:**  
     a) _The common elements between them._  
     b) _The elements present only in the first list but not in the second._  
+    c) _The elements present only in the second list but not in the first._  
