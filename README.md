@@ -117,3 +117,4 @@
     a) _The common elements between them._  
     b) _The elements present only in the first list but not in the second._  
     c) _The elements present only in the second list but not in the first._  
+20. **WAJP to find all missing numbers from a given List of integers from 1 to N (with some numbers missing).**  
