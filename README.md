@@ -118,3 +118,4 @@
     b) _The elements present only in the first list but not in the second._  
     c) _The elements present only in the second list but not in the first._  
 20. **WAJP to find all missing numbers from a given List of integers from 1 to N (with some numbers missing).**  
+21. **WAJP to partition a List of integers into two sublists, one with all even numbers, and another with all odd numbers.**  
