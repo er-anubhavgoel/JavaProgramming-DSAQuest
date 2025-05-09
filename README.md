@@ -121,3 +121,4 @@
 21. **WAJP to partition a List of integers into two sublists, one with all even numbers, and another with all odd numbers.**  
 22. **WAJP to store the binary values of a number in List.**  
 23. **WAJP to print whether the list is in sorted order or not.**  
+24. **WAJP to check whether given String is Valid Paranthesis or not.**  
