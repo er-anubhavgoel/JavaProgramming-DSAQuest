@@ -128,3 +128,5 @@
 ## Linked List
 
 1. **WAJP to implement a method to insert the node at the end of a linked list.**  
+2. **WAJP to display the Linked List:**  
+    a) _Iterative Approach._  
