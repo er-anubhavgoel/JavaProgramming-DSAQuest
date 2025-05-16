@@ -135,3 +135,4 @@
 4. **WAJP to find out the length of Linked List:**  
     a) _Iterative Approach._  
     a) _Recursive Approach._  
+5. **WAJP to implement a method to insert the node at any given index of a linked list.**  
