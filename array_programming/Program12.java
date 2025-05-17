@@ -2,7 +2,7 @@ package array_programming;
 
 import java.util.Arrays;
 
-public class Program20 {
+public class Program12 {
 	public static void main(String[] args) {
 		// TODO: Sorting array consisting of 0 and 1 only.
 		int[] a = { 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0 };
