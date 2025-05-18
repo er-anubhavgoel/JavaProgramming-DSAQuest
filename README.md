@@ -75,6 +75,8 @@
 10. **WAJP to print alternate element of the array from end.**
 11. **WAJP to swap two index values of the array.**
 12. **WAJP to sort an Array consisting of only 0s and 1s.**
+13. **WAJP to move all the even integers at the beginning of the array followed by all the odd integers.**  
+    a) _The relative order of odd or even integers does not matter._  
 
 ---
 
@@ -98,8 +100,8 @@
 2. **WAJP to create a collection and print all the Integer elements of the collection.**  
 3. **WAJP to create a collection and calculate sum of all the integer elements of collection.**  
 4. **WAJP to create a collection and print the largest integer and smallest integer available in collection.**  
-    a) _Using Iterator Cursor_    
-    b) _Using In-built methods_    
+    a) _Using Iterator Cursor_  
+    b) _Using In-built methods_  
 5. **WAJP to create a collection and print the length of all String available in collection.**  
 6. **WAJP to create a collection and print the largest String and smallest String available in collection.**  
 7. **WAJP to create a collection and remove all the elements other than Integer from the collection.**  
