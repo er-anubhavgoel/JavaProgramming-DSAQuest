@@ -77,6 +77,14 @@
 12. **WAJP to sort an Array consisting of only 0s and 1s.**
 13. **WAJP to move all the even integers at the beginning of the array followed by all the odd integers.**  
     a) _The relative order of odd or even integers does not matter._  
+    b) _Maintaining the relative order of even numbers._  
+
+---
+
+## Binary Search
+
+1. **WAJP to implement Binary Search on Sorted Array.**
+    a) _Using Iterative Approach_
 
 ---
 
