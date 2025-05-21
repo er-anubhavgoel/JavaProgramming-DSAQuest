@@ -85,6 +85,7 @@
 
 1. **WAJP to implement Binary Search on Sorted Array.**
     a) _Using Iterative Approach_
+    b) _Using Recursive Approach_
 
 ---
 
