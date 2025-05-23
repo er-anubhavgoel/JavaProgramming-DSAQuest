@@ -87,6 +87,7 @@
     a) _Using Iterative Approach_
     b) _Using Recursive Approach_
 2. **WAJP to find the first occurrence of an element x, given that array is sorted. If no occurrence of x is found, return -1.**
+3. **WAJP to find the last occurrence of an element x, given that array is sorted. If no occurrence of x is found, return -1.**
 
 ---
 
