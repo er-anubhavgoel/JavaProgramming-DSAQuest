@@ -91,6 +91,7 @@
 4. **WAJP to find the square root of a number and round-off it to the nearest floor value.**
 5. **WAJP to find the minimum element and its index in the rotated sorted array, given each element is unique.**
 6. **WAJP to find the index of target element in the rotated sorted array, given each element is unique.**
+7. **WAJP to find target element in the rotated sorted array and return true if present else return false, where elements can be duplicated.**
 
 ---
 
